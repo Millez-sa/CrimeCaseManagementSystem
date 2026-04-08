@@ -6,7 +6,7 @@ package model;
 
 /**
  *
- * @author Michael
+ * @author Faranani Matsa
  */
 public class Officer {
     private int officerId;
