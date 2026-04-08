@@ -6,7 +6,7 @@ package com.mycompany.crimecasemanagementsystem;
 
 /**
  *
- * @author Michael
+ * @author Faranani Matsa
  */
 
 import gui.MainAppFrame;
