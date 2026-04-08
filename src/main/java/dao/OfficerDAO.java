@@ -6,7 +6,7 @@ package dao;
 
 /**
  *
- * @author Michael
+ * @author Faranani Matsa
  */
 
 import db.DatabaseConnection;
