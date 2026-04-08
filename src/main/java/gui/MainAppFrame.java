@@ -6,7 +6,7 @@ package gui;
 
 /**
  *
- * @author Michael
+ * @author Faranani Matsa
  */
 
 import dao.OfficerDAO;
