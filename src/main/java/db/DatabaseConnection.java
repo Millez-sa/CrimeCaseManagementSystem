@@ -6,7 +6,7 @@ package db;
 
 /**
  *
- * @author Michael
+ * @author Faranani Matsa
  */
 
 import java.sql.Connection;
