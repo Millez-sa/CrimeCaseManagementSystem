@@ -6,7 +6,7 @@ package model;
 
 /**
  *
- * @author Michael
+ * @author Faranani Matsa
  */
 
 import java.time.LocalDate;
